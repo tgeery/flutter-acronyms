@@ -1,1 +1,1 @@
-web: flutter run -d web-server
+web: python -m http.server
